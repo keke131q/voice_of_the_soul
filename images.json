@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.1",
+  "event": "Voice of the Soul 2026",
+  "images": [
+    {
+      "id": "flyer-front",
+      "src": "./flyer-front.jpg",
+      "width": 1076,
+      "height": 1522,
+      "mimeType": "image/jpeg",
+      "placement": "first-view",
+      "alt": "Voice of the Soul 2026のチラシ表面"
+    },
+    {
+      "id": "flyer-back",
+      "src": "./flyer-back.jpg",
+      "width": 1076,
+      "height": 1522,
+      "mimeType": "image/jpeg",
+      "placement": "presenters",
+      "alt": "5名の登壇者を紹介するVoice of the Soul 2026のチラシ裏面"
+    },
+    {
+      "id": "realife-message",
+      "src": "./realife-message.png",
+      "sourceFile": "codex-clipboard-47ffdc5d-0246-41ca-a6d6-b6a66ed5b4ea.png",
+      "width": 1170,
+      "height": 1552,
+      "mimeType": "image/png",
+      "placement": "organizer-mission",
+      "alt": "輝く女性応援プロジェクト リアライフのメンバーと、あなたの夢は誰かの勇気になるというメッセージ"
+    },
+    {
+      "id": "voice-2026-visual",
+      "src": "./voice-2026-visual.png",
+      "sourceFile": "codex-clipboard-715dfc74-15a8-4fce-b49e-6b488c3182e9.png",
+      "width": 1536,
+      "height": 2048,
+      "mimeType": "image/png",
+      "placement": "organizer-lead",
+      "alt": "夢を宣言しようというメッセージと主催者を描いたVoice of the Soul 2026のビジュアル"
+    },
+    {
+      "id": "organizer-preparation",
+      "src": "./organizer-preparation.png",
+      "sourceFile": "codex-clipboard-4f567eb6-eb24-4fc1-90a6-ed1776b64fcc.png",
+      "width": 960,
+      "height": 1706,
+      "mimeType": "image/png",
+      "placement": "organizer-story",
+      "alt": "Voice of the Soulの会場で、主催者が夢と書かれた掲示物を設営している様子"
+    }
+  ]
+}
