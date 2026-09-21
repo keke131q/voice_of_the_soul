@@ -1,0 +1,19 @@
+ZIPを解凍し、中の9ファイルをGitHubリポジトリの一番上の階層にアップロードしてください。
+
+差し替えるファイル
+・index.html
+・styles.css
+・images.json
+・netlify.toml
+・flyer-front.jpg
+・flyer-back.jpg
+
+新しく追加するファイル（スマホ表示用に軽量化済み）
+・realife-message.jpg
+・voice-2026-visual.jpg
+・organizer-preparation.jpg
+
+以前アップロードした同名の.png画像がGitHubに残っている場合は削除して構いません。
+
+すべて同じ階層に置きます。フォルダの中へ入れないでください。
+NetlifyのBuild commandは空欄、Publish directoryは「.」です。

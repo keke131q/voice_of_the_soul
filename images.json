@@ -22,31 +22,31 @@
     },
     {
       "id": "realife-message",
-      "src": "./realife-message.png",
+      "src": "./realife-message.jpg",
       "sourceFile": "codex-clipboard-47ffdc5d-0246-41ca-a6d6-b6a66ed5b4ea.png",
-      "width": 1170,
-      "height": 1552,
-      "mimeType": "image/png",
+      "width": 900,
+      "height": 1194,
+      "mimeType": "image/jpeg",
       "placement": "organizer-mission",
       "alt": "輝く女性応援プロジェクト リアライフのメンバーと、あなたの夢は誰かの勇気になるというメッセージ"
     },
     {
       "id": "voice-2026-visual",
-      "src": "./voice-2026-visual.png",
+      "src": "./voice-2026-visual.jpg",
       "sourceFile": "codex-clipboard-715dfc74-15a8-4fce-b49e-6b488c3182e9.png",
-      "width": 1536,
-      "height": 2048,
-      "mimeType": "image/png",
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
       "placement": "organizer-lead",
       "alt": "夢を宣言しようというメッセージと主催者を描いたVoice of the Soul 2026のビジュアル"
     },
     {
       "id": "organizer-preparation",
-      "src": "./organizer-preparation.png",
+      "src": "./organizer-preparation.jpg",
       "sourceFile": "codex-clipboard-4f567eb6-eb24-4fc1-90a6-ed1776b64fcc.png",
-      "width": 960,
-      "height": 1706,
-      "mimeType": "image/png",
+      "width": 720,
+      "height": 1279,
+      "mimeType": "image/jpeg",
       "placement": "organizer-story",
       "alt": "Voice of the Soulの会場で、主催者が夢と書かれた掲示物を設営している様子"
     }
