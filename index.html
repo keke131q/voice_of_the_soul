@@ -138,6 +138,29 @@
       </div>
     </section>
 
+    <section class="instagram-feed section" aria-labelledby="instagram-title">
+      <div class="shell">
+        <div class="instagram-head">
+          <div>
+            <div class="section-label"><span aria-hidden="true">●</span> VOICE ON INSTAGRAM</div>
+            <h2 id="instagram-title">Instagramで、<br>最新の活動を見る。</h2>
+          </div>
+          <a class="instagram-profile-link" href="https://www.instagram.com/voiceofthesoul.toyama/?hl=ja" target="_blank" rel="noopener noreferrer">@voiceofthesoul.toyama ↗</a>
+        </div>
+        <div class="instagram-grid" aria-label="Voice of the Soul Instagram最新投稿">
+          <div class="instagram-card">
+            <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/voiceofthesoul.toyama/p/DeQoB5jEyug/?hl=ja" data-instgrm-version="14"><a href="https://www.instagram.com/voiceofthesoul.toyama/p/DeQoB5jEyug/?hl=ja" target="_blank" rel="noopener noreferrer">最新投稿をInstagramで見る ↗</a></blockquote>
+          </div>
+          <div class="instagram-card">
+            <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/voiceofthesoul.toyama/p/DeK1NM0ExSK/?hl=ja" data-instgrm-version="14"><a href="https://www.instagram.com/voiceofthesoul.toyama/p/DeK1NM0ExSK/?hl=ja" target="_blank" rel="noopener noreferrer">最新投稿をInstagramで見る ↗</a></blockquote>
+          </div>
+          <div class="instagram-card">
+            <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/voiceofthesoul.toyama/p/DdlQyOHE4t-/?hl=ja" data-instgrm-version="14"><a href="https://www.instagram.com/voiceofthesoul.toyama/p/DdlQyOHE4t-/?hl=ja" target="_blank" rel="noopener noreferrer">最新投稿をInstagramで見る ↗</a></blockquote>
+          </div>
+        </div>
+      </div>
+    </section>
+
     <section class="details section shell" id="access" aria-labelledby="details-title">
       <div class="section-label"><span>05</span> EVENT DETAILS</div><div class="details-head"><h2 id="details-title">開催情報</h2><p>あなたも会場で、夢の一歩を見届けませんか。</p></div>
       <dl class="detail-list">
@@ -160,9 +183,10 @@
     <section class="support section shell"><div class="support-card"><div><div class="section-label"><span>07</span> SUPPORT THE EVENT</div><h2>夢を応援する側に、<br>なりませんか。</h2><p>イベントを応援してくださる個人・団体・企業の皆さまからのご協賛を募集しています。</p></div><a class="button button-dark" href="https://forms.gle/xfwY3cYX5RynF1hD7" target="_blank" rel="noopener noreferrer">協賛フォームへ ↗</a></div></section>
   </main>
   <footer class="site-footer"><div class="shell footer-inner"><div><span class="footer-title">Voice of the Soul 2026</span><p>今、あなたの「夢」を宣言しよう。</p></div><div><p>主催　輝く女性応援project リアライフ<br>Voice of the Soul 実行委員会</p><small>© 2026 Voice of the Soul</small></div></div></footer>
+  <script async src="https://www.instagram.com/embed.js"></script>
   <script>
     document.documentElement.classList.add('motion-ready');
-    const revealTargets = document.querySelectorAll('.section-label, .intro-grid > *, .statement, .organizer-copy > *, .organizer-main-visual, .organizer-story > *, .organizer-mission > *, .journey-intro > *, .journey-steps > *, .journey-cards > *, .journey-quote, .reflection-copy > *, .reflection-questions > *, .journey-close > *, .speakers-grid > *, .details-head > *, .detail-list > div, .entry-heading > *, .form-shell, .form-fallback, .support-card > *, .footer-inner > *');
+    const revealTargets = document.querySelectorAll('.section-label, .intro-grid > *, .statement, .organizer-copy > *, .organizer-main-visual, .organizer-story > *, .organizer-mission > *, .journey-intro > *, .journey-steps > *, .journey-cards > *, .journey-quote, .reflection-copy > *, .reflection-questions > *, .journey-close > *, .speakers-grid > *, .instagram-head > *, .instagram-card, .details-head > *, .detail-list > div, .entry-heading > *, .form-shell, .form-fallback, .support-card > *, .footer-inner > *');
     const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
     if (reduceMotion || !('IntersectionObserver' in window)) {
       revealTargets.forEach((element) => element.classList.add('is-visible'));
